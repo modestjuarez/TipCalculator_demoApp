@@ -20,9 +20,9 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/7X2irxS.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](https://apps.apple.com/us/app/record-it-pro-screen-recorder/id1340697163?mt=12).
 
 ## Notes
 
